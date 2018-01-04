@@ -1,0 +1,13 @@
+/picToVideo/build/intermediates/
+/picToVideo/app/build
+build
+.gradle/
+.idea/
+*.iml
+.gradle
+local.properties
+.idea
+.DS_Store
+build
+captures
+.externalNativeBuild
